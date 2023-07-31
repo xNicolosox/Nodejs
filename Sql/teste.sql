@@ -5,6 +5,7 @@ welcome to the mysql
 
 SHOW DATABASES- mostrar bancos de dados.
 USE- selecioar banco de dados.
+SHOW TABLES - mostrar tabelas.
 CREATE DATABASE- criar banco de dados.
 CREATE TABLE- criar tabela.
 DESCRIBE tabela- mostrar oq tem na tabela .
